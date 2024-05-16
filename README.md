@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajamil121
 - 👀 I’m interested in frontend development. 
-- 🌱 I’m currently learning ReactJs.
+- 🌱 I’m currently learning Mern Stack Development.
 - 💞️ I’m looking to collaborate on projects with Software houses.
 - 📫 You can reach me through LinkedIn.
 - LinkedIn :https://www.linkedin.com/in/aiman-jamil-2b769b196/
